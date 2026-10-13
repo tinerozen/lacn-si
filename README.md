@@ -1,6 +1,6 @@
 # Lačn.si
 
-Scripts that recommend a place to eat from the Slovenian student meal-subsidy list (*študentska prehrana*). The recommendation uses distance, price, my own ratings and how long ago I last ate there.
+Scripts that recommend a place to eat from the Slovenian student meal-subsidy list (*študentska prehrana*). The recommendation uses distance, price, ratings and how long ago user last ate there.
 
 This is the first, prototype version of Lačn.si (originally called *Prehrana*). It's plain Python, and all the data lives in `.txt` files. A FastAPI backend came later and is in [`server/`](server/). The code and comments are mostly in Slovenian.
 
