@@ -1,0 +1,9 @@
+numpy
+geopy
+rich
+thefuzz
+kivy
+kivymd
+plyer
+requests
+firebase-admin

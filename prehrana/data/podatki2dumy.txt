@@ -1,0 +1,2 @@
+"ABI FALAFEL@Trubarjeva cesta 40, 1000 Ljubljana@4,90 EUR@9,00 EUR"@(46.05240565, 14.511095520611555)
+"Aga kebab@Litijska cesta 140, 1000 Ljubljana@1,92 EUR@6,02 EUR"@(46.0448563, 14.559579847403022)

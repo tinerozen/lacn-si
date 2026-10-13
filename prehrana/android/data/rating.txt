@@ -1,0 +1,19 @@
+"Restavracija Menza IJS@Jamova cesta 39, 1000 Ljubljana@4,10 EUR@8,20 EUR"@(46.0421851, 14.4891359)@7@7
+"Znanstvena kavarna Mafija@Jadranska ulica 21, 1000 Ljubljana@0,00 EUR@4,10 EUR"@(46.04207475, 14.490258883573713)@6@3
+"Menza FE@Tržaška cesta 25, 1000 Ljubljana@4,10 EUR@8,20 EUR"@(46.0446317, 14.489330084559903)@8@9
+"O-LALA@Tržaška cesta 18, 1000 Ljubljana@4,90 EUR@9,00 EUR"@(46.045693150000005, 14.489599087348942)@9@6
+"Dijaški dom Vič@Gerbičeva 53, 1000 Ljubljana@2,90 EUR@7,00 EUR"@(46.0384342, 14.488298703652239)@5@6
+"Gostilnica in pivnica Vič@Trg mladinskih delovnih brigad 8, 1000 Ljubljana@3,92 EUR@8,02 EUR"@(46.0471755, 14.4955952)@5@5
+"Pizzeria Laterna@Tržaška 79a, 1000 Ljubljana@4,90 EUR@9,00 EUR"@(46.04744611529629, 14.4952444314512)@8@9
+"Kitajska restavracija Leteča zvezda@Cesta v mestni log 55, 1000 Ljubljana@4,62 EUR@8,72 EUR"@(46.0363814, 14.4898423)@6@5
+"Picerija Barjan@Cesta v Mestni log 55, 1000 Ljubljana@4,90 EUR@9,00 EUR"@(46.0363814, 14.4898423)@5@5
+"Pizzerija in okrepčevalnica KONDOR@Cesta v Mestni log 55, 1000 Ljubljana@4,40 EUR@8,50 EUR"@(46.0363814, 14.4898423)@5@5
+"PE Marjetica@Tobačna ulica 5, 1000 Ljubljana@3,40 EUR@7,50 EUR"@(46.048317, 14.493714452223514)@5@5
+"Biotehniški izobraževalni center Ljubljana@Cesta v Mestni log 47, 1000 Ljubljana@3,40 EUR@7,50 EUR"@(46.0369419, 14.492890623178543)@5@5
+"Leonard@Trg mladinskih delovnih brigad 12, 1000 Ljubljana@0,00 EUR@4,10 EUR"@(46.04795285, 14.49627880952039)@5@5
+"Restavracija FS, Fakulteta za strojništvo@Aškerčeva ulica 6, 1000 Ljubljana@4,30 EUR@8,40 EUR"@(46.047077, 14.498216)@5@5
+"Gostilnica Meta in Bazilika@Snežniška ulica 1, 1000 Ljubljana@4,90 EUR@9,00 EUR"@(46.04757515, 14.497849307962383)@8@8
+"Restavracija Interspar Vič@Jamova 105, 1000 Ljubljana@4,52 EUR@8,62 EUR"@(46.03900245, 14.477041147452121)@8@8
+"Okrepčevalnica - Diner kino gledališče Bežigrad@Linhartova 11, 1000 Ljubljana@4,30 EUR@8,40 EUR"@(46.0643895, 14.5101535)@10@7
+"Kitajska restavracija Novi Šanghai@Kapitelska 5, 1000 Ljubljana@4,70 EUR@8,80 EUR"@(0, 0)@7.5@10
+"Burek Olimpija Rimska@Rimska cesta 13, 1000 Ljubljana@0,70 EUR@4,80 EUR"@(46.04740285, 14.499895431612913)@6@7
