@@ -1,5 +1,9 @@
-fastapi
-uvicorn[standard]
-python-dotenv
-# optional for Firestore integration
+numpy
+geopy
+rich
+thefuzz
+kivy
+kivymd
+plyer
+requests
 firebase-admin
